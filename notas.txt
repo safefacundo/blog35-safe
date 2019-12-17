@@ -2,3 +2,4 @@ npm i express mongoose pug
 npm i -D nodemon
 descargar git: https://git-scm.com/download/win
 y hacer el git init y vincular mi repositorio
+mongodb+srv://safe:safe1234@cluster0-alae1.mongodb.net/blog35safe?retryWrites=true&w=majority
