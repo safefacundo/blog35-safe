@@ -1,0 +1,4 @@
+npm i express mongoose pug
+npm i -D nodemon
+descargar git: https://git-scm.com/download/win
+y hacer el git init y vincular mi repositorio
